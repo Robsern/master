@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2e3a256c2f3431103cc549e72799b610</sp_column>
+        <sp_widget display_value="Hello World 1">6f2cff80d721120023c84f80de61033c</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 12:08:57</sys_created_on>
+        <sys_id>8d3be96c2f3431103cc549e72799b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hello World" source="x_1109755_hello_wo">54d46da42f3031103cc549e72799b699</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">54d46da42f3031103cc549e72799b699</sys_scope>
+        <sys_update_name>sp_instance_8d3be96c2f3431103cc549e72799b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:08:57</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8d3be96c2f3431103cc549e72799b63f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">54d46da42f3031103cc549e72799b699</application>
+        <file_path/>
+        <instance_id>e3913e2cdbb0f3802f68c5970596192c</instance_id>
+        <instance_name>dev80165</instance_name>
+        <name>sp_instance_8d3be96c2f3431103cc549e72799b63f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">2e3a256c2f3431103cc549e72799b610</sp_column><sp_widget display_value="Hello World 1">6f2cff80d721120023c84f80de61033c</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-18 12:08:57</sys_created_on><sys_id>8d3be96c2f3431103cc549e72799b63f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Hello World" source="x_1109755_hello_wo">54d46da42f3031103cc549e72799b699</sys_package><sys_policy/><sys_scope display_value="Hello World">54d46da42f3031103cc549e72799b699</sys_scope><sys_update_name>sp_instance_8d3be96c2f3431103cc549e72799b63f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-18 12:08:57</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=8d3be96c2f3431103cc549e72799b63f"/></record_update>]]></payload>
+        <payload_hash>1738010689</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>18d4ed282f3431103cc549e72799b647</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 12:08:57</sys_created_on>
+        <sys_id>8d3be96c2f3431103cc549e72799b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a088c777e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:08:57</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c53be96c33343110737b59f912761941</update_guid>
+        <update_guid_history>c53be96c33343110737b59f912761941:1738010689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1a7bedac2f3431103cc549e72799b629</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 12:10:08</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3f2606ca84b643eabd45e0d96be9d541</sys_id>
+        <sys_metadata>8d3be96c2f3431103cc549e72799b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hello World" source="x_1109755_hello_wo">54d46da42f3031103cc549e72799b699</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">54d46da42f3031103cc549e72799b699</sys_scope>
+        <sys_scope_delete display_value="">3781ca94139646afbc04151f9d5cc671</sys_scope_delete>
+        <sys_update_name>sp_instance_8d3be96c2f3431103cc549e72799b63f</sys_update_name>
+        <sys_update_version display_value="sp_instance_8d3be96c2f3431103cc549e72799b63f">8d3be96c2f3431103cc549e72799b641</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:10:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
